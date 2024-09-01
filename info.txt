@@ -1,0 +1,11 @@
+Para dar início à nova arquitetura, vamos realizar algumas alterações:
+
+Mova os pacotes controller, model, service e repository para uma nova pasta dentro de br.com.alura.codechella denominada naousar.
+
+Crie um novo pacote denominado domain, dentro de br.com.alura.codechella, onde estarão centralizadas nossas entidades de negócio.
+
+Dentro do pacote domain, crie a classe Usuario com os atributos cpf, nome, nascimento e email.
+
+Adicione os métodos getters e setters para cada atributo da classe Usuario.
+
+----
